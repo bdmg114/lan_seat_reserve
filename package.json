@@ -1,0 +1,22 @@
+{
+  "name": "lan_seat_reserve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdmg114/lan_seat_reserve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdmg114/lan_seat_reserve/issues"
+  },
+  "homepage": "https://github.com/bdmg114/lan_seat_reserve#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
+}
